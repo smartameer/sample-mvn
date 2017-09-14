@@ -6,4 +6,3 @@
 ---
 #### Sample Maven Project
 ---
----
